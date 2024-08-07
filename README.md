@@ -1,2 +1,3 @@
 # ppk
-dizer hello word em python 
+dizer hello world em python 
+print(Hello, World)
